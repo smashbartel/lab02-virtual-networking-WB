@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "dnszones_wb518325_example_name": {
+            "value": null
+        },
+        "storageAccounts_stwbl0204_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_core_WB_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg_web_name": {
+            "value": null
+        },
+        "applicationSecurityGroups_asg_web_name": {
+            "value": null
+        },
+        "privateDnsZones_corp_wb518325_internal_name": {
+            "value": null
+        }
+    }
+}
